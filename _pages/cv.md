@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-#* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-#* M.S. in Jekyll, GitHub University, 2014
+<!--* Ph.D in Version Control Theory, GitHub University, 2018 (expected)-->
+<!--* M.S. in Jekyll, GitHub University, 2014-->
 * B.S. in Beijing, Beijing Jiaotong University, 2026 (expected)
 
 <!--
@@ -42,11 +42,13 @@ Skills
   * Sub-skill 2.3
 * Skill 3
 -->
+
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+
 <!--
 Talks
 ======
