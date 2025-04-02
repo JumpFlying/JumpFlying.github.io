@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Pengfei Zhang"
+title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -25,7 +25,7 @@ author:
   avatar           : "fly.png"
   name             : "Pengfei Zhang"
   pronouns         : # example: "she/her"  
-  bio              : "I'm Fly"
+  bio              : "An undergraduate student majoring in Computer Science and Technology"
   location         : "Beijing"
   employer         : "Beijing Jiaotong University"
   uri              : # URL
