@@ -28,3 +28,8 @@ Many of the features of dynamic content management systems (like Wordpress) can 
 
 
 💻 Internships
+======
+
+🏸 Hobbys
+======
+
